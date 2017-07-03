@@ -1,0 +1,17 @@
+pe\edu\upeu\configuration\HibernateConfiguration.class
+pe\edu\upeu\configuration\WebConfig.class
+pe\edu\upeu\dao\ProductsDaoImpl.class
+pe\edu\upeu\model\Facturas.class
+pe\edu\upeu\model\Products.class
+pe\edu\upeu\model\DetalleFactura.class
+pe\edu\upeu\control\ProductsController.class
+pe\edu\upeu\service\ProductsServiceImpl.class
+pe\edu\upeu\configuration\AppConfig.class
+pe\edu\upeu\dao\ProductsDao.class
+pe\edu\upeu\model\Clientes.class
+pe\edu\upeu\model\Users.class
+pe\edu\upeu\model\Tmp.class
+pe\edu\upeu\configuration\SysDataAccess.class
+pe\edu\upeu\configuration\MyCorsFilter.class
+pe\edu\upeu\configuration\AppServletInitializer.class
+pe\edu\upeu\service\ProductsService.class
